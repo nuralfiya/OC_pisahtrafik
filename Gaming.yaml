@@ -1,14 +1,6 @@
 # NAME = GAMEMAX
 # AUTHOR = MOH NUR KHOLIS
-# Sedia juga akkun premium support ketengan YT/si biru paket sesuai tkp
-# wa.me/6283109959726
-# t.me/Mas_Joes
-# Beli = Di pandu sampe konek
 payload:
-# Telkomsel
-  - DOMAIN-KEYWORD,telkomsel
-  - DOMAIN-SUFFIX,telkomsel.com
-  - DOMAIN-SUFFIX,my.telkomsel.com 
 # PUBG
   - DOMAIN-KEYWORD,pubgmobile
   - DOMAIN-SUFFIX,pubgmobile.com  
