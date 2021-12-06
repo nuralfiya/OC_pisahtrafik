@@ -1,24 +1,9 @@
 # NAME = WHATSAPP
 # AUTHOR = MOH NUR KHOLIS
-# Sedia juga akkun premium support ketengan YT/si biru paket sesuai tkp
-# wa.me/6283109959726
-# t.me/Mas_Joes
-# Beli = Di pandu sampe konek
 payload:
 #Whatsapp
   - DOMAIN-SUFFIX,whatsapp.com
   - DOMAIN-SUFFIX,whatsapp.net
-#  - DOMAIN-SUFFIX,googlevideo.com
-#  - DOMAIN-SUFFIX,facebook.com
-#  - DOMAIN-SUFFIX,facebook.net
-#  - DOMAIN-SUFFIX,fbcdn.com
-#  - DOMAIN-SUFFIX,fbcdn.net
-#  - DOMAIN-SUFFIX,youtube.com
-#  - DOMAIN-SUFFIX,ytimg.com
-#  - DOMAIN-SUFFIX,instagram.com
-#  - DOMAIN-SUFFIX,cdninstagram.com
-#  - DOMAIN-SUFFIX,fb.com
-#  - DOMAIN-SUFFIX,fb.gg
   - DST-PORT,3478
   - DST-PORT,4244
   - DST-PORT,5222
