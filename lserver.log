@@ -1,8 +1,9 @@
- ╔══════════════════════════╗                            
- ║ Name   : sg-do1          ║
- ║ Domain : sg1.funny.my.id ║
- ║ ISP    : Digital ocean   ║
- ║ Region : Singapore       ║
- ║ Active : 20 Days         ║
- ╚══════════════════════════╝ 
-          => 1 <=
+ ╔══════════════════════════╗      ╔══════════════════════════╗                            
+ ║ Name   : sg-do1          ║      ║ Name   : id-herza1       ║
+ ║ Domain : sg1.funny.my.id ║      ║ Domain : id1.funny.my.id ║
+ ║ ISP    : Digital ocean   ║      ║ ISP    : Herza Digital   ║
+ ║ Region : Singapore       ║      ║ Region : Indonesia       ║
+ ║ Active : 20 Days         ║      ║ Active : 20 Days         ║
+ ╚══════════════════════════╝      ╚══════════════════════════╝             
+
+          => 1 <=                             => 2 <=
