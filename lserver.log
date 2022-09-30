@@ -1,9 +1,25 @@
- ╔══════════════════════════╗      ╔══════════════════════════╗                            
- ║ Name   : sg-do1          ║      ║ Name   : id-herza1       ║
- ║ Domain : sg1.funny.my.id ║      ║ Domain : id1.funny.my.id ║
- ║ ISP    : Digital ocean   ║      ║ ISP    : Herza Digital   ║
- ║ Region : Singapore       ║      ║ Region : Indonesia       ║
- ║ Active : 20 Days         ║      ║ Active : 20 Days         ║
- ╚══════════════════════════╝      ╚══════════════════════════╝             
+ ╔══════════════════════════╗                               
+ ║ Name   : sg-do1          ║      
+ ║ Domain : sg1.funny.my.id ║     
+ ║ ISP    : Digital ocean   ║     
+ ║ Region : Singapore       ║    
+ ╚══════════════════════════╝                
+          => 1 <=                             
+          
+ ╔══════════════════════════╗                               
+ ║ Name   : id-herza1       ║     
+ ║ Domain : id1.funny.my.id ║      
+ ║ ISP    : Herza Digital   ║     
+ ║ Region : Indonesia       ║     
+ ║ Active : 20 Days         ║     
+ ╚══════════════════════════╝              
+          => 2 <=      
 
-          => 1 <=                             => 2 <=
+ ╔══════════════════════════╗                               
+ ║ Name   : jp-azure1       ║     
+ ║ Domain : jp1.funny.my.id ║      
+ ║ ISP    : Azure ISP       ║     
+ ║ Region : Jepang          ║     
+ ║ Active : 20 Days         ║     
+ ╚══════════════════════════╝              
+          => 3 <=                     
